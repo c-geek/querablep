@@ -1,0 +1,28 @@
+{
+  "name": "querablep",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --growl --timeout 10000 test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:c-geek/querablep.git"
+  },
+  "keywords": [
+    "promise",
+    "async",
+    "querable"
+  ],
+  "author": "Cedric Moreau <cem.moreau@gmail.com>",
+  "license": "AGPL-3.0",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/c-geek/querablep/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "2.2.5"
+  }
+}
